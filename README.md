@@ -1,6 +1,4 @@
 # Greetings
-~~oh, does this "readme" can be chanched in obsidian? :0~~
-
 Hello.
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzRkMXkweWlrZ2hlbXdvYzQ0ZXM0dzl6dGRjMjBmMmN6NmVyNjVwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6hKL8BI8rRNrMRFtAx/giphy.gif" width="40" height="35">
 Call me Dee or Diana.
