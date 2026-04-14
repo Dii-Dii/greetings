@@ -3,7 +3,7 @@ Hello.
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzRkMXkweWlrZ2hlbXdvYzQ0ZXM0dzl6dGRjMjBmMmN6NmVyNjVwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6hKL8BI8rRNrMRFtAx/giphy.gif" width="40" height="35">
 Call me Dee or Diana.
 
-I'm a fresh student at Polar State University, learning programming. I've tried making projects in Python in the past. I'm still trying, but in C++ and C#. In my free time (read like any time), the creative spirit awakens in me, and I can draw an illustration or add a few pages to some my book. Sometimes I get this so-called desire to experiment, and I'll be obsessed with the idea of ​​making, say, a visual novel or a 3D model of one of my characters from... uh... novels? Idk.
+I'm a fresh student at Polar State University, learning programming. I've tried making projects in Python in the past. I'm still trying, but also in C++ and C#. In my free time (read like any time), the creative spirit awakens in me, and I can draw an illustration or write a few pages to some my book. Sometimes I get this so-called desire to experiment, and I'll be obsessed with the idea of ​​making, say, a visual novel or a 3D model of one of my characters from... uh... novels? Idk.
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczF4aGdsdXF0cGZ2ZHppeW5hdjkzeGU1ODBtdG5sc2xsYnNscWNqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cexBti5wLPZltbzfpy/giphy.gif" width="60" height="60">
 
@@ -29,8 +29,6 @@ I just want to leave a few of my artworks, just to show off.
 <img src="https://img.icons8.com/?size=100&id=pNvuBsEVgVCG&format=png&color=000000" width="40"> for arts and 2D animations.
 
 <img src="https://img.icons8.com/?size=100&id=48455&format=png&color=000000" width="40"> for code.
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/OpenToonz_logo.svg" width="40"> for 2D animation.
 
 <img src="https://img.icons8.com/?size=100&id=65231&format=png&color=000000" width="40"> for 3D models.
 
